@@ -1,12 +1,11 @@
+# Contents
 - [Interest Point](#interest-point)
 - [Local Descriptor](#local-descriptor)
 - [Pose Estimation](#pose-estimation)
-- [Multi-Sensor](#multi-sensor)
+  - [Multi-Sensor](#multi-sensor)
 - [Registration](#registration)
 - [Mapping System](#mapping-system)
 - [Scence Flow](#scence-flow)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # Interest Point
 - UnsuperPoint: End-to-end Unsupervised Interest Point Detector and Descriptor [paper](https://arxiv.org/pdf/1907.04011.pdf) [review]()
