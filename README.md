@@ -5,6 +5,7 @@
   - [Multi-Sensor](#multi-sensor)
 - [Registration](#registration)
 - [Mapping System](#mapping-system)
+  -[Semantic Mapping](#Semantic-Mapping)
 - [Scence Flow](#scence-flow)
 
 # Interest Point
@@ -24,5 +25,7 @@
 
 # Mapping System
 - Design, Calibration, and Evaluation of a Backpack Indoor Mobile Mapping System [paper](https://www.mdpi.com/2072-4292/11/8/905/pdf-vor) [review](http://blog.leanote.com/post/jinbin_tan@icloud.com/2127337f63e5)
+## Semantic Mapping
+- Lidar Mapping Optimization Based on Lightweight Semantic Segmentation [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8723606) [review]()
 
 # Scence Flow
