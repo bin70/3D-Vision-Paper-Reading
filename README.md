@@ -20,6 +20,9 @@
 - Selective Sensor Fusion for Neural Visual-Inertial Odometry [paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Selective_Sensor_Fusion_for_Neural_Visual-Inertial_Odometry_CVPR_2019_paper.html) [review](http://blog.leanote.com/post/jinbin_tan@icloud.com/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8F%AF%E9%80%89%E6%8B%A9VIO)
 - A General Optimization-based Framework for Global Pose Estimation with Multiple Sensors [paper]() [review](http://blog.leanote.com/post/jinbin_tan@icloud.com/dfb4fdf4e398) [code](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) 
 
+# Detection
+- CVPR2017, MV3D: Multi-View 3D Object Detection Network for Autonomous Driving [paper](https://arxiv.org/abs/1611.07759) [review](https://github.com/bin70/3D-Vision-Paper-Reading/issues/1) [code](https://github.com/leeyevi/MV3D_TF)
+
 # Registration
 - SegMatch Segment based place recognition in 3D point clouds [paper](https://www.researchgate.net/publication/318693876_SegMatch_Segment_based_place_recognition_in_3D_point_clouds) [review](http://blog.leanote.com/post/jinbin_tan@icloud.com/SegMatch) [code](https://github.com/ethz-asl/segmatch)
 
